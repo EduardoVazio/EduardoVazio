@@ -1,5 +1,9 @@
 # Olá! 👋 Eu sou [Seu Nome]
 
+<div align="center">
+  <img src="https://media.tenor.com/images/b6a39c6f3c99a8cb4be2bbbe4fbe1d21/tenor.gif" alt="Anime Coding" width="200"/>
+</div>
+
 ## Sobre mim
 🚀 [Breve descrição sobre você, sua área de atuação ou estudos]
 🌱 Atualmente estou aprendendo [tecnologias/habilidades]
