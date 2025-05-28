@@ -1,19 +1,29 @@
-## Oi! Eu sou Eduardo 
+# Olá! 👋 Eu sou [Seu Nome]
 
+## Sobre mim
+🚀 [Breve descrição sobre você, sua área de atuação ou estudos]
+🌱 Atualmente estou aprendendo [tecnologias/habilidades]
+👯 Procuro colaborar em [tipos de projetos]
+💬 Me pergunte sobre [suas especialidades]
 
-<div style="display: inline_block"><br>
-  <p>Linguagens que eu uso:</p>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ## 
- 
-<div> 
-<p>Contato:</p>
-  <a href="https:https://www.instagram.com/eduardoo06660/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "dssed560@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[Adicione mais badges das tecnologias que você usa]
+
+## 📊 Estatísticas do GitHub
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](seu-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](seu-twitter)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email)
+
+## 🚀 Projetos em Destaque
+- [Nome do Projeto](link) - Breve descrição
+- [Nome do Projeto](link) - Breve descrição
+- [Nome do Projeto](link) - Breve descrição
+
+---
+⭐️ From [seu-username](https://github.com/seu-username) 
