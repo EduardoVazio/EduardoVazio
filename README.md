@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou AiAskoX
+# Olá! 👋 Eu sou Aiko
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif" alt="Anime Coding" width="200"/>
